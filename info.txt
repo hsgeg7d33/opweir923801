@@ -1,0 +1,46 @@
+Poisox
+  School: Jelgavas Tehnoloģiju vidusskola
+  Class: 8.a (2020)
+  Name: Gustavs, Filips, Atkačuns (?)
+  Phone numurs: +37128805582
+  Address: (Rūpniecības iela)
+
+LTT_Storm
+  School: Rīgas Valsts 3. ģimnāzija
+  Address: Latvia, Jugla, Vangazu iela 12
+  Class: 10.a (2021)
+  Name: Artis Auseklis
+  Phone numurs: +37126743760
+  Instagram: https://www.instagram.com/ltt_storm/
+
+Vildins:
+  School: Alojas Ausekļa vidusskola
+  Class: 9.a (2021)
+  Name: Vilders Mārtiņš
+  Birthday Date: 22.09.2005
+  Phone numurs: +37125134791
+  Instagram: https://www.instagram.com/vildersmartins/
+
+Quackz:
+  Name: Marks Leskevics
+  School: Lielvārdes pamatskola | Baldones Vidduskola
+  Class: 6.b (2021)
+  Phone numurs: +37129322052
+
+Zapte:
+  School: Ogres 1. vidusskola (?)
+  Name: Helmuts Kančs
+  Birthday Date: 22.04.2006
+  Phone numurs: +37127327575
+  Address: Ogre, Indrānu iela 7
+  Person: https://lhf.lv/lv/person/1826
+
+Glaskii:
+  Name: Adrians Treimanis
+
+Ginters:
+  Name: Ginters Leons Ķūrēns
+
+Burkans:
+  Email: tiktokburkans@gmail.com
+  Address: https://maps.app.goo.gl/bibvZxbUSzXykfA17
